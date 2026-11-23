@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+EGEGIK+VILLAGE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+EGEGIK+VILLAGE",
+  "title": "Federal Register - AK EGEGIK VILLAGE",
+  "fetched_at": "2026-11-23T16:00:14.820401Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 239256,
+  "sha256": "ee91578edbc798b62b8ebfe3bfefeb989a13857d27a1e325affd1f59def41401",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
